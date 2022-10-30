@@ -16,7 +16,10 @@ const imageArray = [
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOCg-MZgqba7rVd4u75HY8jlImuNS_6yQVGhK6UqrrfJZ4BQEhTrzK4X0TddSvYwf0Hw&usqp=CAU",
   "https://i.pinimg.com/originals/a7/d0/03/a7d003ab30e03c3a9cfff6dd557cddc4.jpg",
   "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/358f384a-d146-4a5d-b81d-080c1e5f9172/d2ntorb-8e8f55e2-9fa6-4ade-a2b5-bf1639b9cd14.jpg/v1/fill/w_900,h_900,q_75,strp/super_mario_stencil_by_beraka_d2ntorb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvMzU4ZjM4NGEtZDE0Ni00YTVkLWI4MWQtMDgwYzFlNWY5MTcyXC9kMm50b3JiLThlOGY1NWUyLTlmYTYtNGFkZS1hMmI1LWJmMTYzOWI5Y2QxNC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.yUmi_NWL_x_6KAtI7tQDMcwMzGmcuZ-xGcMkWUPPsvQ",
-  
+  "https://media1.popsugar-assets.com/files/thumbor/LN3oUYi1myjCz5L25qnN7ou_EM8/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/09/27/006/n/1922507/494f5823_storm/i/Stormtrooper-Pumpkin-Template.jpg",
+  "https://starwarsblog.starwars.com/wp-content/uploads/sites/6/2017/10/chewie-1.jpg",
+  "https://starwarsblog.starwars.com/wp-content/uploads/sites/6/2017/10/angry-porg.jpg",
+  "https://preview.redd.it/8jaffp01k7i31.jpg?auto=webp&s=381a9cfb1b4241bf05be53145f45f5bac548993a"
   ];
   
   const image = document.querySelector("img");
