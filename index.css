@@ -2,6 +2,7 @@ html, body {
 	margin: 0;
 	height: 100%;
 	width: 100%;
+  background-image: url("https://i.pinimg.com/originals/cc/42/c3/cc42c37a3928952fda852b372156b90d.jpg");
 }
 
 header {
@@ -11,7 +12,8 @@ header {
 }
 
 img {
-	width: 70%;
+	width: 500px;
+  height: 500px;
 }
 
 .flex {
@@ -21,5 +23,36 @@ img {
 }
 
 h1 {
-  font-family: 'Creepster', cursive;
+  font-family: 'Dancing Script', cursive;
+  color: #7f5539;
+  padding: 50px 50px 25px 50px;
+ 
+
 }
+
+.h1-background {
+  margin-top: 75px;
+  background-color: rgba(255, 255, 255, 0.5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid white;
+}
+
+.button {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  color: #7f5539;
+  background-color: white;
+  border-radius: 45%;
+  border: 2px solid #7f5539;
+  padding: 5px;
+  margin-bottom: 50px;
+  
+}
+
+.button:hover {
+ background-color:#e6ccb2;
+}
+
