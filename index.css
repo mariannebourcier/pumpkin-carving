@@ -2,7 +2,8 @@ html, body {
 	margin: 0;
 	height: 100%;
 	width: 100%;
-  background-image: url("https://i.pinimg.com/originals/cc/42/c3/cc42c37a3928952fda852b372156b90d.jpg");
+  background-color: #f7b05b;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
 header {
@@ -14,6 +15,7 @@ header {
 img {
 	width: 500px;
   height: 500px;
+  padding-bottom: 20px;
 }
 
 .flex {
@@ -23,8 +25,8 @@ img {
 }
 
 h1 {
-  font-family: 'Dancing Script', cursive;
-  color: #7f5539;
+  font-family: 'Fjalla One', sans-serif;
+  color: #240046;
   padding: 50px 50px 25px 50px;
  
 
@@ -37,22 +39,25 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 3px solid white;
+  border: 3px solid #240046;
 }
 
 .button {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Fjalla One', sans-serif;
   font-size: 30px;
-  color: #7f5539;
-  background-color: white;
+  color: #240046;
+  background-color: #f7b05b;
   border-radius: 45%;
-  border: 2px solid #7f5539;
-  padding: 5px;
+  border: 2px solid #240046;
+  padding: 8px;
   margin-bottom: 50px;
   
 }
 
 .button:hover {
- background-color:#e6ccb2;
+ background-color:white;
 }
 
+@media only screen and (max-width: 600px) {
+
+}
