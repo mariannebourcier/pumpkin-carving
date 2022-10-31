@@ -2,7 +2,8 @@
 ## Find the perfect stencil for carving your Halloween pumpkin 🎃
 
 ### Link: https://mariannebourcier.github.io/pumpkin-carving/
-A project done for some Halloween fun! Sometimes, it's nice to go back to basics and create simple one page projects. 
+A project done for some Halloween fun! Choose a stencil for your pumpkin from the various themes, such as Disney, Star Wars or just plain and scary Jack'O'Lanterns. <br>
+Sometimes, it's nice to go back to basics and create simple one page projects. 
 
 
 
