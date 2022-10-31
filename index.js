@@ -19,7 +19,12 @@ const imageArray = [
   "https://media1.popsugar-assets.com/files/thumbor/LN3oUYi1myjCz5L25qnN7ou_EM8/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/09/27/006/n/1922507/494f5823_storm/i/Stormtrooper-Pumpkin-Template.jpg",
   "https://starwarsblog.starwars.com/wp-content/uploads/sites/6/2017/10/chewie-1.jpg",
   "https://starwarsblog.starwars.com/wp-content/uploads/sites/6/2017/10/angry-porg.jpg",
-  "https://preview.redd.it/8jaffp01k7i31.jpg?auto=webp&s=381a9cfb1b4241bf05be53145f45f5bac548993a"
+  "https://preview.redd.it/8jaffp01k7i31.jpg?auto=webp&s=381a9cfb1b4241bf05be53145f45f5bac548993a",
+  "https://media1.popsugar-assets.com/files/thumbor/hBbSmAWznFe-cav-0gyw1bEPzNU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/08/27/832/n/41570443/4c6517f89a74fb6b_12054741_f520/i/Free-Harry-Potter-Pumpkin-Templates.jpg",
+  "https://media1.popsugar-assets.com/files/thumbor/-9bbTAUlRzEeHjLch1lrmbdO86g/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/09/05/876/n/41570443/6208de2f_symbol/i/Deathly-Hallows-Symbol.jpg",
+  "https://media1.popsugar-assets.com/files/thumbor/VWBviRsEK7Y8KcDJf0C-wSWDWoQ/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/09/05/886/n/41570443/81b13e42_sortinghat/i/Sorting-Hat.jpg",
+  "https://preview.redd.it/5arnjx801ts31.jpg?auto=webp&s=bd773d144548236e05e8f30d5452facc84cd9d1e",
+  "https://coloringhome.com/coloring/E8T/6kL/E8T6kL8iE.jpg"
   ];
   
   const image = document.querySelector("img");

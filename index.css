@@ -56,6 +56,15 @@ h1 {
  background-color:white;
 }
 
-@media only screen and (max-width: 600px) {
-
-}
+/* @media only screen and (max-width: 768px) {
+  .h1-background {
+    margin-top: 20px;
+  }
+  h1 {
+    width: 100%;
+  }
+  img { 
+    width: 50%;
+    height: 50%;
+  }
+} */
